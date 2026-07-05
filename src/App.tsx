@@ -12,7 +12,6 @@ const projects = [
     links: {
       github: 'https://github.com/afk-m/retail-return-analytics',
       caseStudy: '#retail-returns',
-      demo: '#',
     },
   },
   {
@@ -26,7 +25,6 @@ const projects = [
     links: {
       github: 'https://github.com/F-R-A-U-D-S',
       caseStudy: '#frauds',
-      demo: '#',
     },
   },
   {
@@ -135,7 +133,7 @@ const caseStudies = [
     title: 'RBC Wealth Management Data Analyst Co-op',
     category: 'Professional Data & AI Experience',
     image: `${baseUrl}screenshots/rbc/rbc.jpg`,
-    positioning: 'Confidentiality-safe professional experience case study.',
+    positioning: 'Professional experience case study.',
     summary:
       'Supported data engineering and AI workflows across batch data migration, advisor knowledge retrieval, document preparation, and AI assistant proof-of-concepts.',
     sections: [
@@ -371,29 +369,18 @@ function App() {
                       </span>
                     ))}
                   </div>
-                  {project.links.github || project.links.demo ? (
-                    <div className="mt-6 grid grid-cols-3 gap-2">
-                      {project.links.github ? (
-                        <a className="project-link" href={project.links.github}>
-                          GitHub
-                        </a>
-                      ) : (
-                        <span className="project-link-muted">Private</span>
-                      )}
-                      <a className="project-link" href={project.links.caseStudy}>
-                        Case Study
+                  {project.links.github ? (
+                    <div className="mt-6 grid grid-cols-2 gap-2">
+                      <a className="project-link" href={project.links.github}>
+                        GitHub
                       </a>
-                      {project.links.demo ? (
-                        <a className="project-link" href={project.links.demo}>
-                          Demo Video
-                        </a>
-                      ) : (
-                        <span className="project-link-muted">Confidential</span>
-                      )}
+                      <a className="project-link" href={project.links.caseStudy}>
+                        Details
+                      </a>
                     </div>
                   ) : (
                     <a className="project-link mt-6 w-full" href={project.links.caseStudy}>
-                      Case Study
+                      Details
                     </a>
                   )}
                 </div>
