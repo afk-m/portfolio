@@ -1,0 +1,30 @@
+<svg width="1200" height="750" viewBox="0 0 1200 750" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Fraud detection platform screenshot placeholder</title>
+  <desc id="desc">Dark dashboard-style placeholder for the F.R.A.U.D.S. credit card fraud detection platform.</desc>
+  <rect width="1200" height="750" fill="#050807"/>
+  <rect x="70" y="70" width="1060" height="610" rx="18" fill="#0D1110" stroke="#26332D" stroke-width="2"/>
+  <rect x="100" y="105" width="1000" height="90" rx="14" fill="#151A18" stroke="#26332D"/>
+  <text x="135" y="160" fill="#E6F1EC" font-family="JetBrains Mono, monospace" font-size="32" font-weight="800">frauds.review_queue</text>
+  <text x="785" y="158" fill="#39FF88" font-family="JetBrains Mono, monospace" font-size="22" font-weight="700">risk_ranked = true</text>
+  <rect x="110" y="235" width="320" height="365" rx="14" fill="#0D1110" stroke="#26332D"/>
+  <text x="140" y="285" fill="#E6F1EC" font-family="JetBrains Mono, monospace" font-size="24" font-weight="800">&gt; risk_factors</text>
+  <circle cx="270" cy="425" r="92" fill="#151A18" stroke="#26332D"/>
+  <path d="M270 333a92 92 0 0 1 79 139L270 425V333Z" fill="#39FF88"/>
+  <path d="M349 472a92 92 0 0 1-143 19l64-66 79 47Z" fill="#1FA463"/>
+  <path d="M206 491a92 92 0 0 1 64-158v92l-64 66Z" fill="#26332D"/>
+  <text x="150" y="555" fill="#9FB5AA" font-family="JetBrains Mono, monospace" font-size="18" font-weight="600">ml_score + anomaly + rules</text>
+  <rect x="470" y="235" width="620" height="365" rx="14" fill="#0D1110" stroke="#26332D"/>
+  <text x="505" y="285" fill="#E6F1EC" font-family="JetBrains Mono, monospace" font-size="24" font-weight="800">&gt; analyst_queue</text>
+  <rect x="505" y="325" width="550" height="48" rx="8" fill="#151A18" stroke="#39FF88"/>
+  <rect x="505" y="390" width="550" height="48" rx="8" fill="#151A18" stroke="#1FA463"/>
+  <rect x="505" y="455" width="550" height="48" rx="8" fill="#151A18" stroke="#26332D"/>
+  <rect x="505" y="520" width="550" height="48" rx="8" fill="#151A18" stroke="#26332D"/>
+  <text x="530" y="356" fill="#39FF88" font-family="JetBrains Mono, monospace" font-size="18" font-weight="700">txn_10492</text>
+  <text x="890" y="356" fill="#39FF88" font-family="JetBrains Mono, monospace" font-size="18" font-weight="700">0.97 risk</text>
+  <text x="530" y="421" fill="#9FB5AA" font-family="JetBrains Mono, monospace" font-size="18" font-weight="700">txn_88310</text>
+  <text x="890" y="421" fill="#9FB5AA" font-family="JetBrains Mono, monospace" font-size="18" font-weight="700">0.89 risk</text>
+  <text x="530" y="486" fill="#9FB5AA" font-family="JetBrains Mono, monospace" font-size="18" font-weight="700">txn_55128</text>
+  <text x="890" y="486" fill="#9FB5AA" font-family="JetBrains Mono, monospace" font-size="18" font-weight="700">0.74 risk</text>
+  <text x="530" y="551" fill="#9FB5AA" font-family="JetBrains Mono, monospace" font-size="18" font-weight="700">txn_22107</text>
+  <text x="890" y="551" fill="#9FB5AA" font-family="JetBrains Mono, monospace" font-size="18" font-weight="700">0.62 risk</text>
+</svg>

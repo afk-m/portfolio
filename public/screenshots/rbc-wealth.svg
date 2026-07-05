@@ -1,0 +1,33 @@
+<svg width="1200" height="750" viewBox="0 0 1200 750" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">RBC Wealth Management co-op screenshot placeholder</title>
+  <desc id="desc">Dark workflow-style placeholder for RBC Wealth Management data and retrieval workflows.</desc>
+  <rect width="1200" height="750" fill="#050807"/>
+  <rect x="70" y="70" width="1060" height="610" rx="18" fill="#0D1110" stroke="#26332D" stroke-width="2"/>
+  <text x="110" y="132" fill="#E6F1EC" font-family="JetBrains Mono, monospace" font-size="34" font-weight="800">wealth.data_workflows</text>
+  <text x="110" y="175" fill="#9FB5AA" font-family="JetBrains Mono, monospace" font-size="22" font-weight="600">high_level_coop_summary</text>
+  <rect x="120" y="245" width="180" height="92" rx="12" fill="#151A18" stroke="#26332D"/>
+  <rect x="375" y="245" width="180" height="92" rx="12" fill="#151A18" stroke="#26332D"/>
+  <rect x="630" y="245" width="180" height="92" rx="12" fill="#151A18" stroke="#26332D"/>
+  <rect x="885" y="245" width="180" height="92" rx="12" fill="#151A18" stroke="#26332D"/>
+  <path d="M305 291h60" stroke="#39FF88" stroke-width="4" stroke-linecap="round"/>
+  <path d="M560 291h60" stroke="#39FF88" stroke-width="4" stroke-linecap="round"/>
+  <path d="M815 291h60" stroke="#39FF88" stroke-width="4" stroke-linecap="round"/>
+  <text x="165" y="301" fill="#39FF88" font-family="JetBrains Mono, monospace" font-size="20" font-weight="800">sftp</text>
+  <text x="410" y="301" fill="#39FF88" font-family="JetBrains Mono, monospace" font-size="20" font-weight="800">aws_s3</text>
+  <text x="660" y="301" fill="#39FF88" font-family="JetBrains Mono, monospace" font-size="20" font-weight="800">snowflake</text>
+  <text x="922" y="301" fill="#39FF88" font-family="JetBrains Mono, monospace" font-size="20" font-weight="800">stonebranch</text>
+  <rect x="120" y="405" width="435" height="190" rx="14" fill="#0D1110" stroke="#26332D"/>
+  <text x="155" y="455" fill="#E6F1EC" font-family="JetBrains Mono, monospace" font-size="24" font-weight="800">&gt; validation_docs</text>
+  <rect x="155" y="495" width="330" height="16" rx="8" fill="#26332D"/>
+  <rect x="155" y="530" width="260" height="16" rx="8" fill="#26332D"/>
+  <rect x="155" y="565" width="370" height="16" rx="8" fill="#26332D"/>
+  <rect x="645" y="405" width="420" height="190" rx="14" fill="#0D1110" stroke="#26332D"/>
+  <text x="680" y="455" fill="#E6F1EC" font-family="JetBrains Mono, monospace" font-size="24" font-weight="800">&gt; advisor_retrieval</text>
+  <rect x="680" y="492" width="130" height="34" rx="8" fill="#1FA463"/>
+  <rect x="828" y="492" width="98" height="34" rx="8" fill="#39FF88"/>
+  <rect x="944" y="492" width="82" height="34" rx="8" fill="#151A18" stroke="#39FF88"/>
+  <text x="704" y="515" fill="#E6F1EC" font-family="JetBrains Mono, monospace" font-size="16" font-weight="700">chunks</text>
+  <text x="850" y="515" fill="#031008" font-family="JetBrains Mono, monospace" font-size="16" font-weight="800">vectors</text>
+  <text x="966" y="515" fill="#39FF88" font-family="JetBrains Mono, monospace" font-size="16" font-weight="700">search</text>
+  <path d="M700 558h305" stroke="#39FF88" stroke-width="3" stroke-linecap="round" stroke-dasharray="10 12"/>
+</svg>
